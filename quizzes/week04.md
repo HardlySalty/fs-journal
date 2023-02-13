@@ -3,17 +3,18 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+asynchronous is line by line with the abaility to await
+synchronous is still line by line but synchronous does not wait for any code to finish before moving on
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+an event listener is a "listener" or "watcher" of events and if the event listener sees any change to the element it's watching it then does something like call a function
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+The open ended principle is basically saying that your code should be closed for modifcation but open to expansion... Meaning that your functions should be reusable and nondependant on other functions to work
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->

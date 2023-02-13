@@ -13,7 +13,11 @@ a function is a piece of code that tells the code within in it to run use case i
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility
+Open–closed
+Liskov substitution
+Interface segregation
+Dependency inversion
 ```
 **4.** Given this array: 
 ```js
@@ -22,7 +26,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-the pineapples index is two the index is 0, 1, 2, 3, 4
+the pineapples index is "2" the index is 0, 1, 2, 3, 4
 ```
 **5.** With these two objects: 
 ```js
@@ -38,7 +42,10 @@ you.friends.push(them)
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+let x = 2
+if(x == 2){
+  console.log("wow")
+}
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -52,7 +59,7 @@ i++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
